@@ -12,3 +12,8 @@ Disallow: /private/ <br>
 Allow: /public/ <br>
 Sitemap: https://www.example.com/sitemap.xml<br><br>
 3. Must add <b>alt</b> attribute on each img elements of site
+
+### Additional for increasing site speed and performance
+
+Create CDN of your static files and use it in your project.<br>
+It will significantly reduce memory load on your server and definetly boost the site performance!
